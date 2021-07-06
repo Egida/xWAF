@@ -42,3 +42,9 @@ $secured->checkPOST();
 $secured->checkCOOKIE();
 // Your code below.
 ```
+
+# Credits
+
+> CourtesyDev - Reworked
+
+> Alemalakra - [Original Developer](https://github.com/Alemalakra/xWAF)
