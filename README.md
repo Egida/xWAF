@@ -17,6 +17,8 @@ Original Free Web Application Firewall, Open-Source.
 - [x] Security upgraded.
 - [x] Errors supression.
 - [x] Cloudflare and BlazingFast Support.
+
+# New Features
 - [x] Fixed Issues
 - [x] New HTML Detection Site (Leads to a Gov Site)  
 
